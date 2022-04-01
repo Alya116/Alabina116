@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Albina, my nickname @Alabina116
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning htm,css and I'll study js, react
+- 💞️ I’m looking to collaborate on email
+- 📫 How to reach me on email kazan2015albina@gmail.com
