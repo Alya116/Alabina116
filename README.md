@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Albina, my nickname @Alabina116
+- 👋 Hi, I’m Albina, my nickname @Alya116
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning htm,css and I'll study js, react
 - 💞️ I’m looking to collaborate on email
